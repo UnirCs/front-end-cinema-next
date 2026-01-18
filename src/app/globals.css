@@ -1,0 +1,130 @@
+/* ===========================================
+   ESTILOS GLOBALES - UNIR Cinema
+   Solo estilos base y variables CSS
+   =========================================== */
+
+/* Importar TailwindCSS - Tailwind v4 */
+@import "tailwindcss";
+
+/* Tema personalizado con @theme de Tailwind v4 */
+@theme {
+  /* Colores de cine */
+  --color-cinema-red: #dc143c;
+  --color-cinema-red-dark: #8b0000;
+  --color-cinema-red-light: #ff4d6d;
+  --color-cinema-gold: #d4af37;
+  --color-cinema-gold-dark: #b8860b;
+  --color-cinema-gold-light: #f4d03f;
+
+  /* Fondos oscuros */
+  --color-cinema-black: #0a0a0a;
+  --color-cinema-dark: #121212;
+  --color-cinema-dark-secondary: #1a1a1a;
+  --color-cinema-dark-card: #1e1e1e;
+  --color-cinema-dark-elevated: #2a2a2a;
+
+  /* Textos */
+  --color-cinema-text: #f5f5f5;
+  --color-cinema-text-muted: #b0b0b0;
+
+  /* Bordes */
+  --color-cinema-border: #333333;
+}
+
+/* Reset específico - Después de @theme para no sobreescribir Tailwind */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Estilos base del body */
+html {
+  color-scheme: dark;
+}
+
+body {
+  font-family: var(--font-nunito), 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Enlaces globales */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Scrollbar personalizado */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #121212;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 5px;
+  border: 2px solid #121212;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444;
+}
+
+/* Selección de texto */
+::selection {
+  background-color: #dc143c;
+  color: white;
+}
+
+/* Animación shimmer para skeletons de carga */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Animación de pulso suave para elementos destacados */
+@keyframes pulse-soft {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+/* Animación de entrada desde abajo */
+@keyframes slide-up {
+  0% {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Animación de brillo para tarjetas */
+@keyframes shine {
+  0% {
+    transform: translateX(-100%) skewX(-15deg);
+  }
+  100% {
+    transform: translateX(200%) skewX(-15deg);
+  }
+}
+
+/* Clase utilitaria para efecto de vidrio */
+.glass-effect {
+  background: rgba(30, 30, 30, 0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+

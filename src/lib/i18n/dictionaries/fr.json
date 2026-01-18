@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "home": {
+      "title": "UNIR Cinema - Votre destination cinématographique",
+      "description": "Découvrez la meilleure expérience cinématographique en Espagne. Affiche, horaires et achat de billets à Madrid, Barcelone, Valence et Séville."
+    },
+    "billboard": {
+      "title": "Affiche",
+      "description": "Consultez l'affiche du cinéma à %city%. Horaires, films et achat de billets en ligne."
+    },
+    "movie": {
+      "description": "Consultez les horaires et achetez des billets pour %title% à UNIR Cinema."
+    },
+    "session": {
+      "title": "Sélectionnez vos places"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "billboard": "Affiche",
+    "about": "À propos",
+    "admin": "Admin",
+    "profile": "Profil",
+    "login": "Connexion",
+    "logout": "Déconnexion"
+  },
+  "header": {
+    "city": "Ville",
+    "updateSessions": "Séances Aujourd'hui",
+    "updating": "Mise à jour...",
+    "invalidateCache": "Invalider le Cache",
+    "invalidating": "Invalidation...",
+    "loading": "Chargement...",
+    "hello": "Bonjour"
+  },
+  "home": {
+    "title": "UNIR Cinema",
+    "subtitle": "Votre destination cinématographique",
+    "slogan": "✨ Vivez la magie du cinéma comme jamais auparavant ✨",
+    "selectCity": "🍿 Sélectionnez votre ville et découvrez l'affiche",
+    "screens": "salles",
+    "metricsTitle": "📊 UNIR Cinema en chiffres",
+    "metricsSubtitle": "Données mises à jour automatiquement • ISR toutes les 15 secondes",
+    "ticketsToday": "Billets aujourd'hui",
+    "ticketsMonth": "Billets ce mois",
+    "minutesWatched": "Minutes visionnées",
+    "averageRating": "Note moyenne",
+    "lastRegeneration": "Dernière régénération",
+    "topMoviesTitle": "🏆 Films les mieux notés",
+    "topMoviesSubtitle": "Cache de données indépendant • Revalidation toutes les 30 secondes",
+    "featuresTitle": "Caractéristiques",
+    "cinemas": "+4 Cinémas",
+    "cinemasDesc": "Dans toute l'Espagne",
+    "rooms": "+45 Salles",
+    "roomsDesc": "Dernière technologie",
+    "dolby": "Dolby Atmos",
+    "dolbyDesc": "Son immersif",
+    "vip": "Salles VIP",
+    "vipDesc": "Expérience premium"
+  },
+  "cityInfo": {
+    "madrid": {
+      "highlight": "Le plus grand"
+    },
+    "barcelona": {
+      "highlight": "Premium"
+    },
+    "valencia": {
+      "highlight": "Central"
+    },
+    "sevilla": {
+      "highlight": "Charmant"
+    }
+  },
+  "billboard": {
+    "title": "🎬 Affiche",
+    "cinemaInfo": "Info du cinéma",
+    "noMovies": "Aucun film disponible dans ce cinéma",
+    "availableTimes": "🎟️ Horaires disponibles",
+    "moreInfo": "Plus d'informations"
+  },
+  "movie": {
+    "genre": "Genre",
+    "duration": "Durée",
+    "rating": "Note",
+    "year": "Année",
+    "director": "Réalisateur",
+    "cast": "Distribution",
+    "synopsis": "Synopsis",
+    "showtimes": "🎟️ Horaires à",
+    "noShowtimes": "Pas de séances disponibles à",
+    "back": "← Retour"
+  },
+  "session": {
+    "title": "Sélection des sièges",
+    "subtitle": "Sélectionnez vos places pour",
+    "at": "à",
+    "screen": "ÉCRAN",
+    "selected": "Sélectionnés",
+    "occupied": "Occupés",
+    "available": "Disponibles",
+    "selectedSeats": "Sièges sélectionnés",
+    "none": "Aucun",
+    "total": "Total",
+    "confirmReservation": "Confirmer la Réservation",
+    "selectSeats": "Sélectionnez au moins un siège",
+    "loginRequired": "Vous devez vous connecter pour réserver",
+    "paymentTitle": "💳 Détails de paiement",
+    "cardName": "Nom sur la carte",
+    "cardNumber": "Numéro de carte",
+    "expiry": "Expiration",
+    "cvv": "CVV",
+    "processing": "Traitement...",
+    "pay": "Payer",
+    "cancel": "Annuler",
+    "success": "Paiement effectué avec succès!",
+    "redirecting": "Redirection vers votre profil..."
+  },
+  "cinema": {
+    "infoTitle": "Informations du cinéma",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "screens": "Salles",
+    "capacity": "Capacité",
+    "openSince": "Ouvert depuis",
+    "services": "Services",
+    "parking": "Parking",
+    "accessibility": "Accessibilité",
+    "vipRooms": "Salles VIP",
+    "imax": "IMAX",
+    "dolbyAtmos": "Dolby Atmos",
+    "yes": "Oui",
+    "no": "Non",
+    "viewBillboard": "Voir l'Affiche"
+  },
+  "about": {
+    "title": "À propos d'UNIR Cinema",
+    "whoWeAre": "Qui sommes-nous?",
+    "whoWeAreText": "UNIR Cinema est la principale chaîne de cinémas en Espagne, offrant la meilleure expérience cinématographique dans les principales villes du pays.",
+    "history": "Notre Histoire",
+    "historyText": "Fondé en 2015, UNIR Cinema est né avec la vision de révolutionner l'expérience cinématographique en Espagne.",
+    "ourCities": "Nos Villes",
+    "madrid": "Notre siège principal avec des salles modernes.",
+    "barcelona": "Expérience cinématographique méditerranéenne.",
+    "valencia": "Tradition et modernité combinées.",
+    "sevilla": "L'art du cinéma en Andalousie.",
+    "contact": "Contact"
+  },
+  "profile": {
+    "title": "Profil Utilisateur",
+    "name": "Nom",
+    "email": "Email",
+    "role": "Rôle",
+    "authenticatedWith": "Authentifié avec Google via Auth0",
+    "syncMessage": "Votre compte est synchronisé avec notre base de données.",
+    "myTickets": "🎟️ Mes Billets",
+    "noTickets": "Vous n'avez pas encore de billets achetés.",
+    "viewBillboard": "Voir l'Affiche",
+    "downloadQR": "📥 Télécharger QR",
+    "seats": "Sièges",
+    "orderDate": "Date de commande"
+  },
+  "admin": {
+    "title": "🎬 Panneau d'Administration",
+    "subtitle": "Contenu réservé aux administrateurs",
+    "registeredUsers": "Utilisateurs inscrits",
+    "movies": "Films",
+    "cities": "Villes",
+    "todayReservations": "Réservations aujourd'hui",
+    "users": "utilisateurs",
+    "titles": "titres",
+    "locations": "emplacements",
+    "tickets": "billets"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "message": "Désolé, la page que vous recherchez n'existe pas dans UNIR Cinema.",
+    "backHome": "🎬 Retour à l'accueil"
+  },
+  "footer": {
+    "rights": "© 2024 UNIR Cinema. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "language": "Langue"
+  }
+}

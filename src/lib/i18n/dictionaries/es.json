@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "home": {
+      "title": "UNIR Cinema - Tu destino cinematográfico",
+      "description": "Descubre la mejor experiencia cinematográfica en España. Cartelera, horarios y compra de entradas en Madrid, Barcelona, Valencia y Sevilla."
+    },
+    "billboard": {
+      "title": "Cartelera",
+      "description": "Consulta la cartelera de cine en %city%. Horarios, películas y compra de entradas online."
+    },
+    "movie": {
+      "description": "Consulta horarios y compra entradas para %title% en UNIR Cinema."
+    },
+    "session": {
+      "title": "Selecciona tus asientos"
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "billboard": "Cartelera",
+    "about": "Nosotros",
+    "admin": "Admin",
+    "profile": "Perfil",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión"
+  },
+  "header": {
+    "city": "Ciudad",
+    "updateSessions": "Sesiones Hoy",
+    "updating": "Actualizando...",
+    "invalidateCache": "Invalidar Cache",
+    "invalidating": "Invalidando...",
+    "loading": "Cargando...",
+    "hello": "Hola"
+  },
+  "home": {
+    "title": "UNIR Cinema",
+    "subtitle": "Tu destino cinematográfico",
+    "slogan": "✨ Vive la magia del cine como nunca antes ✨",
+    "selectCity": "🍿 Selecciona tu ciudad y descubre la cartelera",
+    "screens": "salas",
+    "metricsTitle": "📊 UNIR Cinema en números",
+    "metricsSubtitle": "Datos actualizados automáticamente • ISR cada 15 segundos",
+    "ticketsToday": "Entradas hoy",
+    "ticketsMonth": "Entradas este mes",
+    "minutesWatched": "Minutos visualizados",
+    "averageRating": "Valoración media",
+    "lastRegeneration": "Última regeneración",
+    "topMoviesTitle": "🏆 Películas más valoradas",
+    "topMoviesSubtitle": "Cache de datos independiente • Revalidación cada 30 segundos",
+    "featuresTitle": "Características",
+    "cinemas": "+4 Cines",
+    "cinemasDesc": "En toda España",
+    "rooms": "+45 Salas",
+    "roomsDesc": "Última tecnología",
+    "dolby": "Dolby Atmos",
+    "dolbyDesc": "Sonido inmersivo",
+    "vip": "Salas VIP",
+    "vipDesc": "Experiencia premium"
+  },
+  "cityInfo": {
+    "madrid": {
+      "highlight": "El más grande"
+    },
+    "barcelona": {
+      "highlight": "Premium"
+    },
+    "valencia": {
+      "highlight": "Céntrico"
+    },
+    "sevilla": {
+      "highlight": "Con encanto"
+    }
+  },
+  "billboard": {
+    "title": "🎬 Cartelera",
+    "cinemaInfo": "Info del cine",
+    "noMovies": "No hay películas disponibles en este cine",
+    "availableTimes": "🎟️ Horarios disponibles",
+    "moreInfo": "Más información"
+  },
+  "movie": {
+    "genre": "Género",
+    "duration": "Duración",
+    "rating": "Valoración",
+    "year": "Año",
+    "director": "Director",
+    "cast": "Reparto",
+    "synopsis": "Sinopsis",
+    "showtimes": "🎟️ Horarios en",
+    "noShowtimes": "No hay sesiones disponibles en",
+    "back": "← Volver"
+  },
+  "session": {
+    "title": "Selección de asientos",
+    "subtitle": "Selecciona tus asientos para",
+    "at": "a las",
+    "screen": "PANTALLA",
+    "selected": "Seleccionados",
+    "occupied": "Ocupados",
+    "available": "Disponibles",
+    "selectedSeats": "Asientos seleccionados",
+    "none": "Ninguno",
+    "total": "Total",
+    "confirmReservation": "Confirmar Reserva",
+    "selectSeats": "Selecciona al menos un asiento",
+    "loginRequired": "Debes iniciar sesión para reservar",
+    "paymentTitle": "💳 Datos de pago",
+    "cardName": "Nombre en la tarjeta",
+    "cardNumber": "Número de tarjeta",
+    "expiry": "Caducidad",
+    "cvv": "CVV",
+    "processing": "Procesando...",
+    "pay": "Pagar",
+    "cancel": "Cancelar",
+    "success": "¡Pago completado con éxito!",
+    "redirecting": "Redirigiendo a tu perfil..."
+  },
+  "cinema": {
+    "infoTitle": "Información del cine",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Email",
+    "screens": "Salas",
+    "capacity": "Capacidad",
+    "openSince": "Abierto desde",
+    "services": "Servicios",
+    "parking": "Parking",
+    "accessibility": "Accesibilidad",
+    "vipRooms": "Salas VIP",
+    "imax": "IMAX",
+    "dolbyAtmos": "Dolby Atmos",
+    "yes": "Sí",
+    "no": "No",
+    "viewBillboard": "Ver Cartelera"
+  },
+  "about": {
+    "title": "Sobre UNIR Cinema",
+    "whoWeAre": "¿Quiénes somos?",
+    "whoWeAreText": "UNIR Cinema es la cadena de cines líder en España, ofreciendo la mejor experiencia cinematográfica en las principales ciudades del país.",
+    "history": "Nuestra Historia",
+    "historyText": "Fundada en 2015, UNIR Cinema nació con la visión de revolucionar la experiencia cinematográfica en España.",
+    "ourCities": "Nuestras Ciudades",
+    "madrid": "Nuestra sede principal con salas modernas.",
+    "barcelona": "Experiencia cinematográfica mediterránea.",
+    "valencia": "Tradición y modernidad unidas.",
+    "sevilla": "El arte del cine en Andalucía.",
+    "contact": "Contacto"
+  },
+  "profile": {
+    "title": "Perfil de Usuario",
+    "name": "Nombre",
+    "email": "Email",
+    "role": "Rol",
+    "authenticatedWith": "Autenticado con Google via Auth0",
+    "syncMessage": "Tu cuenta está sincronizada con nuestra base de datos.",
+    "myTickets": "🎟️ Mis Entradas",
+    "noTickets": "Aún no tienes entradas compradas.",
+    "viewBillboard": "Ver Cartelera",
+    "downloadQR": "📥 Descargar QR",
+    "seats": "Asientos",
+    "orderDate": "Fecha del pedido"
+  },
+  "admin": {
+    "title": "🎬 Panel de Administración",
+    "subtitle": "Contenido solo para administradores",
+    "registeredUsers": "Usuarios registrados",
+    "movies": "Películas",
+    "cities": "Ciudades",
+    "todayReservations": "Reservas hoy",
+    "users": "usuarios",
+    "titles": "títulos",
+    "locations": "ubicaciones",
+    "tickets": "entradas"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "message": "Lo sentimos, la página que buscas no existe en UNIR Cinema.",
+    "backHome": "🎬 Volver al inicio"
+  },
+  "footer": {
+    "rights": "© 2024 UNIR Cinema. Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "language": "Idioma"
+  }
+}

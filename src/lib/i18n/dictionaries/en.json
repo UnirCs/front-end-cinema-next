@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "home": {
+      "title": "UNIR Cinema - Your cinematic destination",
+      "description": "Discover the best cinematic experience in Spain. Billboard, showtimes and ticket purchase in Madrid, Barcelona, Valencia and Seville."
+    },
+    "billboard": {
+      "title": "Billboard",
+      "description": "Check the movie billboard in %city%. Showtimes, movies and online ticket purchase."
+    },
+    "movie": {
+      "description": "Check showtimes and buy tickets for %title% at UNIR Cinema."
+    },
+    "session": {
+      "title": "Select your seats"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "billboard": "Billboard",
+    "about": "About Us",
+    "admin": "Admin",
+    "profile": "Profile",
+    "login": "Sign In",
+    "logout": "Sign Out"
+  },
+  "header": {
+    "city": "City",
+    "updateSessions": "Sessions Today",
+    "updating": "Updating...",
+    "invalidateCache": "Invalidate Cache",
+    "invalidating": "Invalidating...",
+    "loading": "Loading...",
+    "hello": "Hello"
+  },
+  "home": {
+    "title": "UNIR Cinema",
+    "subtitle": "Your cinematic destination",
+    "slogan": "✨ Experience the magic of cinema like never before ✨",
+    "selectCity": "🍿 Select your city and discover the billboard",
+    "screens": "screens",
+    "metricsTitle": "📊 UNIR Cinema in numbers",
+    "metricsSubtitle": "Automatically updated data • ISR every 15 seconds",
+    "ticketsToday": "Tickets today",
+    "ticketsMonth": "Tickets this month",
+    "minutesWatched": "Minutes watched",
+    "averageRating": "Average rating",
+    "lastRegeneration": "Last regeneration",
+    "topMoviesTitle": "🏆 Top rated movies",
+    "topMoviesSubtitle": "Independent data cache • Revalidation every 30 seconds",
+    "featuresTitle": "Features",
+    "cinemas": "+4 Cinemas",
+    "cinemasDesc": "All over Spain",
+    "rooms": "+45 Rooms",
+    "roomsDesc": "Latest technology",
+    "dolby": "Dolby Atmos",
+    "dolbyDesc": "Immersive sound",
+    "vip": "VIP Rooms",
+    "vipDesc": "Premium experience"
+  },
+  "cityInfo": {
+    "madrid": {
+      "highlight": "The largest"
+    },
+    "barcelona": {
+      "highlight": "Premium"
+    },
+    "valencia": {
+      "highlight": "Central"
+    },
+    "sevilla": {
+      "highlight": "Charming"
+    }
+  },
+  "billboard": {
+    "title": "🎬 Billboard",
+    "cinemaInfo": "Cinema info",
+    "noMovies": "No movies available in this cinema",
+    "availableTimes": "🎟️ Available times",
+    "moreInfo": "More information"
+  },
+  "movie": {
+    "genre": "Genre",
+    "duration": "Duration",
+    "rating": "Rating",
+    "year": "Year",
+    "director": "Director",
+    "cast": "Cast",
+    "synopsis": "Synopsis",
+    "showtimes": "🎟️ Showtimes in",
+    "noShowtimes": "No sessions available in",
+    "back": "← Back"
+  },
+  "session": {
+    "title": "Seat selection",
+    "subtitle": "Select your seats for",
+    "at": "at",
+    "screen": "SCREEN",
+    "selected": "Selected",
+    "occupied": "Occupied",
+    "available": "Available",
+    "selectedSeats": "Selected seats",
+    "none": "None",
+    "total": "Total",
+    "confirmReservation": "Confirm Reservation",
+    "selectSeats": "Select at least one seat",
+    "loginRequired": "You must log in to book",
+    "paymentTitle": "💳 Payment details",
+    "cardName": "Name on card",
+    "cardNumber": "Card number",
+    "expiry": "Expiry",
+    "cvv": "CVV",
+    "processing": "Processing...",
+    "pay": "Pay",
+    "cancel": "Cancel",
+    "success": "Payment completed successfully!",
+    "redirecting": "Redirecting to your profile..."
+  },
+  "cinema": {
+    "infoTitle": "Cinema information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "screens": "Screens",
+    "capacity": "Capacity",
+    "openSince": "Open since",
+    "services": "Services",
+    "parking": "Parking",
+    "accessibility": "Accessibility",
+    "vipRooms": "VIP Rooms",
+    "imax": "IMAX",
+    "dolbyAtmos": "Dolby Atmos",
+    "yes": "Yes",
+    "no": "No",
+    "viewBillboard": "View Billboard"
+  },
+  "about": {
+    "title": "About UNIR Cinema",
+    "whoWeAre": "Who are we?",
+    "whoWeAreText": "UNIR Cinema is the leading cinema chain in Spain, offering the best cinematic experience in the main cities of the country.",
+    "history": "Our History",
+    "historyText": "Founded in 2015, UNIR Cinema was born with the vision of revolutionizing the cinematic experience in Spain.",
+    "ourCities": "Our Cities",
+    "madrid": "Our main headquarters with modern rooms.",
+    "barcelona": "Mediterranean cinematic experience.",
+    "valencia": "Tradition and modernity combined.",
+    "sevilla": "The art of cinema in Andalusia.",
+    "contact": "Contact"
+  },
+  "profile": {
+    "title": "User Profile",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "authenticatedWith": "Authenticated with Google via Auth0",
+    "syncMessage": "Your account is synced with our database.",
+    "myTickets": "🎟️ My Tickets",
+    "noTickets": "You don't have any purchased tickets yet.",
+    "viewBillboard": "View Billboard",
+    "downloadQR": "📥 Download QR",
+    "seats": "Seats",
+    "orderDate": "Order date"
+  },
+  "admin": {
+    "title": "🎬 Admin Panel",
+    "subtitle": "Content for administrators only",
+    "registeredUsers": "Registered users",
+    "movies": "Movies",
+    "cities": "Cities",
+    "todayReservations": "Today's reservations",
+    "users": "users",
+    "titles": "titles",
+    "locations": "locations",
+    "tickets": "tickets"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "Sorry, the page you are looking for does not exist in UNIR Cinema.",
+    "backHome": "🎬 Back to home"
+  },
+  "footer": {
+    "rights": "© 2024 UNIR Cinema. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error has occurred",
+    "language": "Language"
+  }
+}
